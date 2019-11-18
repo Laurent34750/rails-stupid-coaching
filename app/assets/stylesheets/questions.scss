@@ -1,0 +1,24 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+$gray: #F4F4F4;
+
+.box {
+   font-style: bold;
+   border-left: 2px solid $gray;
+   margin-left: 4px;
+   padding-left: 16px;
+   background-color: #fff8cd;
+}
+
+#under{
+  font-style: italic;
+}
+
+#question{
+  color: blue;
+  border-top-left-radius: 4px;
+}
+
+
